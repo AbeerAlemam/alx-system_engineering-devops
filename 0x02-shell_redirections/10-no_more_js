@@ -1,0 +1,2 @@
+#!/bin/bash
+find . -name "*.js[A[B" -type f -delete
