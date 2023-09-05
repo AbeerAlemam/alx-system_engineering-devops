@@ -1,2 +1,2 @@
 #!/bin/bash
--n 3 iacta | tail-n[D[D  -n 1[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[Dhead -n iacta | tail -n 1
+-in 3 iacta | tail-n head -n iacta | tail -n 1
