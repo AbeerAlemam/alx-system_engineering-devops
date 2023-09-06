@@ -1,2 +1,2 @@
 #!/bin/bash
-find -type f -name "*.gif" | rev cut -d '/' -f1[D[C[[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[C[C[C[C | cut[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[ -d "/' -f 1 | [D[D[D[D[D[D[D[D[D["[C["[C[C[C[C[C[C[C cut -d '.' -f 2- | rev | LC_ALL=C sort -f
+find -type f -name "*.gif" | rev | cut -d "/" -f 1 | cut -d '.' -f 2- | rev | LC_ALL=C sort -f
